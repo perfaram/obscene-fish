@@ -37,7 +37,7 @@ function __fish_default_command_not_found_handler --on-event fish_command_not_fo
     case 16
       set insult "And you call yourself a Rocket Scientist!"
     case 17 ######################## GoT
-      set insult "You know nothing; Jon Snow."
+      set insult "You know nothing, Jon Snow."
     case 18
       set insult "There's no cure for being a c*nt."
     case 19
