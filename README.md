@@ -7,3 +7,6 @@ Insults come mostly from Sudo's insult list (Goon show, HAL9000, CSOps), but I a
 
 ### Installation
 Just copy-paste the function into your `config.fish` file.
+
+--------
+###### Have fun.
